@@ -8,6 +8,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="26920b58-c81f-4417-b9cf-3d9c2033fff9" name="139.162.128.184">
+        <fileTransfer rootFolder="/var/" accessType="SFTP" host="139.162.128.184" port="22" sshConfigId="3a52846a-a47c-4b35-9d35-380dd3d58024" sshConfig="root@139.162.128.184:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
