@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="p.zuko.pro" id="37f47e08-3c56-4534-a710-bbab136b7455" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="TW | ROOT" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
