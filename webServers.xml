@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="26920b58-c81f-4417-b9cf-3d9c2033fff9" name="139.162.128.184">
+        <fileTransfer rootFolder="/var/" accessType="SFTP" host="34.80.251.182" port="22" sshConfigId="3a52846a-a47c-4b35-9d35-380dd3d58024" sshConfig="root@34.80.251.182:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="e9fdf5d8-3d5b-4a21-ab3e-08cfc5519da5" name="TW | ROOT" url="https://zuko.pro/">
         <fileTransfer rootFolder="/var/www/" accessType="SFTP" host="p.zuko.pro" port="22" sshConfigId="37f47e08-3c56-4534-a710-bbab136b7455" sshConfig="TW | ROOT">
           <advancedOptions>

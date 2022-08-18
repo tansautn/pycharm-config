@@ -4,6 +4,7 @@
       <sshConfig authType="PASSWORD" host="p.zuko.pro" id="37f47e08-3c56-4534-a710-bbab136b7455" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
         <option name="customName" value="TW | ROOT" />
       </sshConfig>
+      <sshConfig host="34.80.251.182" id="3a52846a-a47c-4b35-9d35-380dd3d58024" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
