@@ -1,13 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="p.zuko.pro" id="37f47e08-3c56-4534-a710-bbab136b7455" port="22" customName="TW | ROOT" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="TW | ROOT" />
-      </sshConfig>
-      <sshConfig host="34.80.251.182" id="3a52846a-a47c-4b35-9d35-380dd3d58024" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig host="35.221.211.78" id="bf1e3b1c-ba42-464d-be80-8b7c4b80087d" keyPath="D:\Z-Data\id_rsa.txt" port="22" customName="GC - ubuntu 8G" nameFormat="CUSTOM" username="web">
-        <option name="customName" value="GC - ubuntu 8G" />
-      </sshConfig>
+      <sshConfig host="pit.zuko.pro" id="00582cd6-6e27-4548-878f-da28587efd2b" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="web" />
     </configs>
   </component>
 </application>
