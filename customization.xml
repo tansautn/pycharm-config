@@ -1,391 +1,156 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="-1" position="8">
+    <group seperator="true" action_type="-1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="8">
+    <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="8">
+    <group seperator="true" action_type="-1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="8">
+    <group value="PublishGroup.Upload" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="8">
+    <group value="PublishGroup.UploadTo" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="-1" position="8">
+    <group value="PublishGroup.Download" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="7">
+    <group value="PublishGroup.DownloadFrom" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group seperator="true" action_type="1" position="8">
+    <group value="PublishGroup.CompareLocalVsRemote" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup" is_group="true" action_type="1" position="9">
+    <group value="PublishGroup.CompareLocalVsRemoteWith" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="Deployment" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="PublishGroup.SyncLocalVsRemoteWith" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="PublishGroup.Base" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="PublishGroup" is_group="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group seperator="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <path value="MainToolBarSettings" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="2" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="2" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="0" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="2" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="2" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="2" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
       <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
-    </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="2" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Deployment" />
-      <option name="myInitialPosition" value="9" />
+      <option name="myInitialPosition" value="3" />
     </group>
   </component>
 </application>

@@ -20,8 +20,12 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
-  <action id="Jdbc.OpenConsole.New" />
-  <action id="Jdbc.OpenConsole.New.Generate" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -29,7 +33,6 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
-  <action id="Vcs.Log.ShowTooltip">
-    <mouse-shortcut keystroke="alt button2" />
-  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
 </keymap>
