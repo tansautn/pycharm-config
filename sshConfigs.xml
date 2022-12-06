@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="pit.zuko.pro" id="00582cd6-6e27-4548-878f-da28587efd2b" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="web" />
+      <sshConfig host="p.zuko.pro" id="00582cd6-6e27-4548-878f-da28587efd2b" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="web" />
     </configs>
   </component>
 </application>
