@@ -3,13 +3,53 @@
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
   <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="PARAMETER_INFO_DELAY" value="600" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="600" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="REFORMAT_ON_PASTE" value="1" />
     <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
+  <component name="DeclarativeInlayHintsSettings">
+    <option name="providerIdToEnabled">
+      <map>
+        <entry key="js.chain.hints" value="true" />
+        <entry key="js.type.hints" value="true" />
+        <entry key="qodana.yaml.inspection.descriptions" value="true" />
+        <entry key="ts.chain.hints" value="true" />
+        <entry key="ts.enum.hints" value="true" />
+        <entry key="ts.type.hints" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
+    <option name="TOOLTIPS_DELAY_MS" value="250" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="Python.parameter.hints.old.python.show.hints.for.non-literal.arguments" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="important" useCustomColors="true" pattern="\b(delme|dropme|fuckme)\b.*">
+      <option name="FOREGROUND" value="bf1500" />
+      <option name="FONT_TYPE" value="2" />
+      <option name="ERROR_STRIPE_COLOR" value="977ab" />
+    </pattern>
+    <filter name="Todo">
+      <pattern index="0" />
+    </filter>
+    <filter name="Remove">
+      <pattern index="1" />
+    </filter>
   </component>
 </application>
