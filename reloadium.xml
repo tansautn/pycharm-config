@@ -1,0 +1,6 @@
+<application>
+  <component name="ReloadiumPreferences">
+    <option name="timingColorMap" value="Plasma" />
+    <option name="alwaysCollectMemory" value="true" />
+  </component>
+</application>

@@ -1,0 +1,10 @@
+<application>
+  <component name="TokenSeverityConfiguration">
+    <tokenSeverityMap>
+      <map>
+        <entry key="!_COMMENT" value="TEXT" />
+        <entry key="public_KEYWORD" value="TEXT" />
+      </map>
+    </tokenSeverityMap>
+  </component>
+</application>

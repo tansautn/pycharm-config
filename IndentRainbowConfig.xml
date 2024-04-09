@@ -1,0 +1,7 @@
+<application>
+  <component name="IndentRainbowConfig">
+    <option name="applyRadiusToBothSides" value="true" />
+    <option name="cornerRadius" value="6" />
+    <option name="enabledForReadOnlyFiles" value="true" />
+  </component>
+</application>
