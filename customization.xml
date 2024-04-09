@@ -1,64 +1,16 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group seperator="true" action_type="1" position="1">
+    <group value="ExternalToolsGroup" is_group="true" forse_popup="false" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="2">
+    <group value="RemoteExternalToolsGroup" is_group="true" forse_popup="false" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="3">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebDeployment.Options" is_action="true" action_type="1" position="4">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="1" position="5">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="8">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="MainToolBarSettings" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="ExternalToolsGroup" is_group="true" action_type="1" position="11">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RemoteExternalToolsGroup" is_group="true" action_type="1" position="12">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
