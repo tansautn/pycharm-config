@@ -6,11 +6,17 @@
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
       <scroll-to-center>true</scroll-to-center>
+      <unmute-on-stop>true</unmute-on-stop>
     </general>
     <debuggers>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="python">
+        <configuration>
+          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>
