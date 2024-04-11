@@ -1,6 +1,7 @@
 <application>
   <component name="DialogsState">
     <option name="firstDebug" value="false" />
+    <option name="firstUserError" value="false" />
     <option name="firstFrameError" value="false" />
   </component>
   <component name="ReloadiumPreferences">
