@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="coll" value="default-state=&quot;collapsed&quot;" description="default-state=&quot;collapsed&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
