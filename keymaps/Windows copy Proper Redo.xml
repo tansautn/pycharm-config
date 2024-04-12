@@ -5,8 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="CommentByBlockComment">
-    <keyboard-shortcut first-keystroke="shift ctrl slash" />
-    <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
   <action id="CommentByLineComment">
