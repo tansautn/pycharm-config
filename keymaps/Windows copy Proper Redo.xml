@@ -16,6 +16,9 @@
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
   <action id="GrepConsole.TailQuickSwitch" />
@@ -42,6 +45,7 @@
   <action id="TextSearchAction" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.UpdateProject" />
   <action id="WelcomeScreen.RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
