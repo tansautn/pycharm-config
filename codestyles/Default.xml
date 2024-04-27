@@ -10,5 +10,8 @@
   </editorconfig>
   <codeStyleSettings language="Python">
     <option name="METHOD_PARAMETERS_WRAP" value="5" />
+    <indentOptions>
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
