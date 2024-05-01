@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="Profiler.RevealSnapshotAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="PublishGroup.SyncLocalVsRemoteWith">
     <keyboard-shortcut first-keystroke="shift ctrl alt y" />
   </action>
@@ -46,7 +49,4 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.UpdateProject" />
-  <action id="WelcomeScreen.RevealIn">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
 </keymap>
