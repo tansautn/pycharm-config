@@ -21,6 +21,7 @@
         <entry key="project.view.do.not.autoscroll.to.libraries" value="true" />
         <entry key="search.everywhere.wait.for.contributors" value="false" />
         <entry key="searcheverywhere.ml.sort.all" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
         <entry key="ssh.config.backend" value="OPENSSH" />
         <entry key="start.run.configurations.pinned" value="true" />
         <entry key="terminal.fill.character.background.including.line.spacing" value="true" />
