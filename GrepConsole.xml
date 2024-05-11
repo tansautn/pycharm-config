@@ -79,7 +79,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
-                      <option name="grepExpression" value=".*instance id.*" />
+                      <option name="grepExpression" value=".*(subscribe|notify|event).*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
                         <GrepStyle>
