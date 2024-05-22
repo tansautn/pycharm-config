@@ -1,5 +1,6 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
@@ -87,7 +88,6 @@
   <component name="PythonFoldingSettings">
     <option name="COLLAPSE_LONG_STRINGS" value="true" />
     <option name="COLLAPSE_SEQUENTIAL_COMMENTS" value="true" />
-    <option name="COLLAPSE_TYPE_ANNOTATIONS" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
