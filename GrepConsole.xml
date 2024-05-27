@@ -11,6 +11,7 @@
                 <option name="grepExpressionItems">
                   <list>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*FATAL.*" />
                       <option name="style">
                         <GrepStyle>
@@ -24,6 +25,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*ERROR.*" />
                       <option name="style">
                         <GrepStyle>
@@ -33,10 +35,12 @@
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
+                          <option name="bold" value="true" />
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*WARN.*" />
                       <option name="style">
                         <GrepStyle>
@@ -50,9 +54,11 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*DEBUG.*" />
                       <option name="style">
                         <GrepStyle>
@@ -66,6 +72,7 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
+                      <option name="caseInsensitive" value="true" />
                       <option name="grepExpression" value=".*TRACE.*" />
                       <option name="style">
                         <GrepStyle>
