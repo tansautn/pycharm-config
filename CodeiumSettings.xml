@@ -1,6 +1,6 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
     <option name="indexingEnabled" value="true" />
-    <option name="indexingMaxFileCount" value="16000" />
+    <option name="indexingMaxFileCount" value="64000" />
   </component>
 </application>
