@@ -73,6 +73,11 @@
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="Python.python.inlay.types" />
+      </set>
+    </option>
     <option name="lastViewedProviderKeyId" value="Python.python.inlay.types" />
     <settingsMapElement>
       <SQL.sql.join.cardinality.hints>
@@ -83,12 +88,6 @@
           <option name="showForRightJoin" value="true" />
         </Settings>
       </SQL.sql.join.cardinality.hints>
-      <Python.python.inlay.types>
-        <Settings>
-          <option name="showClassAttributeHints" value="true" />
-          <option name="showGeneralHints" value="true" />
-        </Settings>
-      </Python.python.inlay.types>
     </settingsMapElement>
   </component>
   <component name="PythonFoldingSettings">
