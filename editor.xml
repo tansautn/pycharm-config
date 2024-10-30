@@ -66,9 +66,7 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="250" />
-    <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
   </component>
