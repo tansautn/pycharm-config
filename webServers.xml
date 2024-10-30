@@ -1,10 +1,24 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ee966d58-a5c7-4915-b159-6c003b695462" name="GC | web" url="http://pit.zuko.pro:8881">
-        <fileTransfer accessType="SFTP" host="pit.zuko.pro" port="22" sshConfigId="00582cd6-6e27-4548-878f-da28587efd2b" sshConfig="web@pit.zuko.pro:22 key" keyPair="true">
+      <webServer id="ee966d58-a5c7-4915-b159-6c003b695462" name="PMIT | web" url="http://pit.zuko.pro:8881">
+        <fileTransfer accessType="SFTP" sshConfigId="bf1e3b1c-ba42-464d-be80-8b7c4b80087d" sshConfig="web@161.35.79.214:22 key">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2d82ff3d-c936-4d4b-87e6-38b3654b1490" name="TW | Web">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="00582cd6-6e27-4548-878f-da28587efd2b" sshConfig="web@p.zuko.pro:6022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3e376c21-e4e6-4d81-97a8-b30f9133f3da" name="TELEBOT" url="http://pit.zuko.pro:8881">
+        <fileTransfer accessType="SFTP" host="161.35.79.214" port="22" sshConfigId="60c7c91d-df55-4cf2-9ad8-f9825b01673c" sshConfig="root@pmit - ets" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>

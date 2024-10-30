@@ -1,0 +1,13 @@
+<application>
+  <component name="DialogsState">
+    <option name="firstRun" value="false" />
+    <option name="firstDebug" value="false" />
+    <option name="firstUserError" value="false" />
+    <option name="firstFrameError" value="false" />
+  </component>
+  <component name="ReloadiumPreferences">
+    <option name="timingColorMap" value="Plasma" />
+    <option name="defaultProfiler" value="None" />
+    <option name="alwaysCollectMemory" value="true" />
+  </component>
+</application>

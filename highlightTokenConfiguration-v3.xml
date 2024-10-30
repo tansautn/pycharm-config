@@ -1,0 +1,39 @@
+<application>
+  <component name="HighlightTokenConfiguration">
+    <highlightTokenMap>
+      <map>
+        <entry key="COMMENT">
+          <value>
+            <list>
+              <option value="!" />
+              <option value="?" />
+              <option value="*" />
+            </list>
+          </value>
+        </entry>
+        <entry key="REGION_COMMENT">
+          <value>
+            <list>
+              <option value="Region" />
+              <option value="End" />
+            </list>
+          </value>
+        </entry>
+        <entry key="REGEXP">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="METHOD_KEYWORD">
+          <value>
+            <list>
+              <option value="abstract" />
+              <option value="public" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </highlightTokenMap>
+    <regExpHighlightEnabled>true</regExpHighlightEnabled>
+  </component>
+</application>

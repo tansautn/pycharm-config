@@ -1,0 +1,11 @@
+<templateSet group="Python">
+  <template name="coll" value="default-state=&quot;collapsed&quot;" description="default-state=&quot;collapsed&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="getter" value="@property&#10;def $name$(self):&#10;    return self.$property$&#10;    " description="getter property" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="property_name" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

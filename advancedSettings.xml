@@ -1,0 +1,36 @@
+<application>
+  <component name="AdvancedSettings">
+    <option name="settings">
+      <map>
+        <entry key="bigger.font.in.project.view" value="true" />
+        <entry key="confirm.rerun.with.termination" value="false" />
+        <entry key="debugger.max.recent.expressions" value="40" />
+        <entry key="docker.connect.automatically" value="false" />
+        <entry key="documentation.components.enable.highlighting.of.links" value="true" />
+        <entry key="documentation.components.enable.inline.code.highlighting" value="true" />
+        <entry key="editor.maximize.in.splits.on.double.click" value="true" />
+        <entry key="editor.normalize.splits" value="true" />
+        <entry key="editor.skip.copy.and.cut.for.empty.selection" value="true" />
+        <entry key="editor.skip.selecting.line.after.copy.empty.selection" value="true" />
+        <entry key="git.use.schannel.on.windows" value="true" />
+        <entry key="ide.always.show.tool.window.header.icons" value="true" />
+        <entry key="ide.macos.disable.native.shortcut.symbols" value="true" />
+        <entry key="ide.open.readme.md.on.startup" value="false" />
+        <entry key="ide.remember.last.search.scope" value="true" />
+        <entry key="ide.show.fileType.icon.in.titleBar" value="true" />
+        <entry key="ide.usages.page.size" value="200" />
+        <entry key="localHistory.daysToKeep" value="90" />
+        <entry key="project.view.do.not.autoscroll.to.libraries" value="true" />
+        <entry key="search.everywhere.wait.for.contributors" value="false" />
+        <entry key="searcheverywhere.ml.sort.all" value="true" />
+        <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="ssh.config.backend" value="OPENSSH" />
+        <entry key="start.run.configurations.pinned" value="true" />
+        <entry key="terminal.buffer.max.lines.count" value="12000" />
+        <entry key="terminal.fill.character.background.including.line.spacing" value="true" />
+        <entry key="vcs.annotations.preload" value="true" />
+        <entry key="vcs.push.all.with.commits" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

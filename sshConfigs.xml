@@ -1,7 +1,10 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="pit.zuko.pro" id="00582cd6-6e27-4548-878f-da28587efd2b" keyPath="D:\Z-Data\id_rsa.txt" port="22" nameFormat="DESCRIPTIVE" username="web" />
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="00582cd6-6e27-4548-878f-da28587efd2b" keyPath="D:\Z-Data\rsa-zuko-cdmx-openssh.key" port="6022" nameFormat="DESCRIPTIVE" username="web" useOpenSSHConfig="true" />
+      <sshConfig host="161.35.79.214" id="60c7c91d-df55-4cf2-9ad8-f9825b01673c" keyPath="D:\Z-Data\rsa-zuko-cdma-pri.key" port="22" customName="root@pmit - ets" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="root@pmit - ets" />
+      </sshConfig>
     </configs>
   </component>
 </application>
