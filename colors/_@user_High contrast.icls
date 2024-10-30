@@ -3,7 +3,7 @@
     <property name="created">2023-08-22T14:24:45</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2023-08-22T14:28:50</property>
+    <property name="modified">2024-10-30T16:15:34</property>
     <property name="originalScheme">High contrast</property>
   </metaInfo>
   <colors>
@@ -69,7 +69,7 @@
     <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
     <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
     <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
-    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.Transparent.trackColor" value="6e6e60" />
     <option name="ScrollBar.background" value="0" />
     <option name="ScrollBar.hoverThumbBorderColor" value="0" />
     <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
