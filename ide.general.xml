@@ -1,11 +1,11 @@
 <application>
   <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="inactiveTimeout" value="5" />
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="showTipsOnStartup" value="false" />
+    <option name="inactiveTimeout" value="5" />
     <option name="supportScreenReaders" value="true" />
   </component>
   <component name="Registry">
@@ -21,7 +21,6 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="CodeiumWidget" value="false" />
         <entry key="Memory" value="true" />
         <entry key="PowerSaveMode" value="true" />
         <entry key="git" value="true" />
