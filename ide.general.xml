@@ -1,16 +1,17 @@
 <application>
   <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
     <option name="autoSaveIfInactive" value="true" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="0" />
-    <option name="inactiveTimeout" value="5" />
     <option name="processCloseConfirmation" value="TERMINATE" />
-    <option name="showTipsOnStartup" value="false" />
+    <option name="inactiveTimeout" value="5" />
     <option name="supportScreenReaders" value="true" />
   </component>
   <component name="Registry">
     <entry key="ide.tree.collapse.recursively" value="false" />
     <entry key="ide.experimental.ui" value="true" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
@@ -21,7 +22,6 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
-        <entry key="CodeiumWidget" value="false" />
         <entry key="Memory" value="true" />
         <entry key="PowerSaveMode" value="true" />
         <entry key="git" value="true" />

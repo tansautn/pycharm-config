@@ -1,6 +1,7 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
-    <option name="indexingEnabled" value="true" />
     <option name="indexingMaxFileCount" value="64000" />
+    <option name="showChatCommandHint" value="false" />
+    <option name="showCodeiumSelectionToolbar" value="false" />
   </component>
 </application>
