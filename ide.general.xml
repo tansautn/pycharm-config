@@ -15,15 +15,13 @@
     <entry key="async.project.view.collapse.tree.path.recursively" value="false" />
     <entry key="ide.images.show.chessboard" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.experimental.ui.inter.font" value="false" />
-    <entry key="debugger.new.tool.window.layout" value="false" />
-    <entry key="idea.plugins.compatible.build" value="" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
         <entry key="Memory" value="true" />
         <entry key="PowerSaveMode" value="true" />
+        <entry key="VfsRefresh" value="true" />
         <entry key="git" value="true" />
       </map>
     </option>

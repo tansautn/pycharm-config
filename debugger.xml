@@ -9,14 +9,15 @@
       <unmute-on-stop>true</unmute-on-stop>
     </general>
     <debuggers>
+      <debugger id="python">
+        <configuration>
+          <option name="quotingPolicy" value="NONE" />
+          <option name="watchReturnValues" value="true" />
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="python">
-        <configuration>
-          <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
     </debuggers>

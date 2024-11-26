@@ -1,0 +1,28 @@
+<templateSet group="JavaScript">
+  <template name="cli" value="console.info($var$);&#10;$END$" shortcut="ENTER" description="Console.info" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="var" expression="jsSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ANY_OPENAPI_JSON_FILE" value="false" />
+      <option name="ANY_OPENAPI_YAML_FILE" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="DjangoTemplate" value="false" />
+      <option name="GENERAL_JSON_FILE" value="false" />
+      <option name="GENERAL_YAML_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="PL/SQL" value="false" />
+      <option name="PUPPET_FILE" value="false" />
+      <option name="Properties" value="false" />
+      <option name="Python" value="false" />
+      <option name="REQUEST" value="false" />
+      <option name="SHELL_SCRIPT" value="false" />
+      <option name="SQL" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+      <option name="powershell.context.file" value="false" />
+    </context>
+  </template>
+</templateSet>
