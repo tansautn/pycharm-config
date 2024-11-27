@@ -12,7 +12,7 @@
     <plugin-statuses>
       <status project="F:/OneDrive/Portable/OBS-Studio-30.2.3-Windows/data/obs-plugins/frontend-tools/scripts" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
-      <status project="D:/Z-Data/git/ytrmtp-scheduled" dbn="PASSIVE" sql="ACTIVE" />
+      <status project="D:/Z-Data/git/ytrmtp-scheduled" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/pyqtside" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>
   </component>
