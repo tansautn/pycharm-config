@@ -164,7 +164,7 @@
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
                       <option name="fold" value="true" />
-                      <option name="grepExpression" value="^(Daemon)\:\sHeart.+" />
+                      <option name="grepExpression" value=".*(Hearbeat).*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
