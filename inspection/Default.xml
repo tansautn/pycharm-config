@@ -3,11 +3,15 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="4">
+        <list size="8">
           <item index="0" class="java.lang.String" itemvalue="loguru" />
           <item index="1" class="java.lang.String" itemvalue="xattr" />
           <item index="2" class="java.lang.String" itemvalue="pyrogram-peer-fix" />
           <item index="3" class="java.lang.String" itemvalue="uvloop" />
+          <item index="4" class="java.lang.String" itemvalue="PySide6_Addons" />
+          <item index="5" class="java.lang.String" itemvalue="PySide6" />
+          <item index="6" class="java.lang.String" itemvalue="PySide6_Essentials" />
+          <item index="7" class="java.lang.String" itemvalue="shiboken6" />
         </list>
       </value>
     </option>
