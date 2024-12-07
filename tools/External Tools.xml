@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="rm storage\setup_state.json" description="remove storage\setup_state.json" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="rm" />
+      <option name="PARAMETERS" value="storage\setup_state.json -f" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
