@@ -1,4 +1,20 @@
 <application>
+  <component name="BhComplexityConfiguration">
+    <complexityCalculationEnabled>false</complexityCalculationEnabled>
+    <gutterIconEnabled>false</gutterIconEnabled>
+    <displayComplexityThreshold>1</displayComplexityThreshold>
+    <highComplexityThreshold>15</highComplexityThreshold>
+    <mediumComplexityThreshold>9</mediumComplexityThreshold>
+    <inlayHintPosition>TOP</inlayHintPosition>
+    <iconInHintEnabled>true</iconInHintEnabled>
+    <textInHintEnabled>true</textInHintEnabled>
+    <lowComplexityDescription>low complexity ({ratio}%)</lowComplexityDescription>
+    <mediumComplexityDescription>medium complexity ({ratio}%)</mediumComplexityDescription>
+    <highComplexityDescription>high complexity ({ratio}%)</highComplexityDescription>
+    <lowComplexityBackgroundColor>49544a</lowComplexityBackgroundColor>
+    <mediumComplexityBackgroundColor>6e6953</mediumComplexityBackgroundColor>
+    <highComplexityBackgroundColor>6e535b</highComplexityBackgroundColor>
+  </component>
   <component name="ComplexityConfiguration">
     <complexityCalculationEnabled>false</complexityCalculationEnabled>
     <highComplexityThreshold>15</highComplexityThreshold>

@@ -7,7 +7,8 @@
   </component>
   <component name="ReloadiumPreferences">
     <option name="timingColorMap" value="Plasma" />
-    <option name="defaultProfiler" value="None" />
+    <option name="defaultCumulateType" value="Last" />
+    <option name="defaultErrorHandlingMode" value="Breakpoint Present" />
     <option name="alwaysCollectMemory" value="true" />
   </component>
 </application>

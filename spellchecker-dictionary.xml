@@ -5,6 +5,7 @@
       <w>crashpad</w>
       <w>delme</w>
       <w>excepthook</w>
+      <w>fmpeg</w>
       <w>httplib</w>
       <w>mmmmm</w>
       <w>mmmmmm</w>
@@ -14,6 +15,7 @@
       <w>qolor</w>
       <w>snapshotable</w>
       <w>tpcd</w>
+      <w>ytcp</w>
     </words>
   </component>
 </application>

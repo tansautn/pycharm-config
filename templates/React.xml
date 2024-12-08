@@ -59,7 +59,6 @@
   </template>
   <template name="pta" value="PropTypes.array," description="Array prop type" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JS_EXPRESSION" value="false" />
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
@@ -188,7 +187,6 @@
   </template>
   <template name="ptsh" value="PropTypes.shape({&#10;    $END$&#10;})," description="An object taking on a particular shape" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JS_EXPRESSION" value="false" />
       <option name="TS_EXPRESSION" value="true" />
     </context>
   </template>

@@ -1,7 +1,9 @@
 <application>
   <component name="IndentRainbowConfig">
     <option name="applyRadiusToBothSides" value="true" />
+    <option name="bigFilesLineThreshold" value="1200" />
     <option name="cornerRadius" value="6" />
     <option name="enabledForReadOnlyFiles" value="true" />
+    <option name="opacityMultiplier" value="-0.31" />
   </component>
 </application>
