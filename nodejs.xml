@@ -1,7 +1,0 @@
-<application>
-  <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="D:/Z-Data/DevTools/nodejs/16.16.0-win-x64/node.exe" />
-    <local-interpreter path="D:/Z-Data/DevTools/nodejs/18.20.2-win-x64/node.exe" />
-    <local-interpreter path="D:/Z-Data/DevTools/nodejs/20.13.1-win-x64/node.exe" />
-  </component>
-</application>

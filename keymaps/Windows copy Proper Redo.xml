@@ -15,6 +15,12 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+  </action>
+  <action id="DebugWithReloadium">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorSelectWord" />
   <action id="FileChooser.NewFolder">
