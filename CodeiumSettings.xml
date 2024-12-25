@@ -4,5 +4,6 @@
     <option name="firstInstall" value="false" />
     <option name="indexingMaxFileCount" value="64000" />
     <option name="showChatCommandHint" value="false" />
+    <option name="showCodeiumSelectionToolbar" value="false" />
   </component>
 </application>
