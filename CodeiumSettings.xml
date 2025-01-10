@@ -1,5 +1,6 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
+    <option name="autoUpdateCodeium" value="false" />
     <option name="firstInstall" value="false" />
     <option name="indexingMaxFileCount" value="64000" />
     <option name="showChatCommandHint" value="false" />
