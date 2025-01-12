@@ -1,6 +1,7 @@
 <application>
   <component name="DBNavigator.Application.FileTypeService">
     <original-file-types>
+      <mapping file-extension="ddl" file-type="SQL" />
       <mapping file-extension="sql" file-type="SQL" />
     </original-file-types>
   </component>
