@@ -880,14 +880,14 @@
     <jdk version="2">
       <name value="Python 3.12 (cursor-auto-free)" />
       <type value="Python SDK" />
-      <version value="Python 3.12.4" />
+      <version value="Python 3.9.13" />
       <homePath value="D:/Z-Data/git/ai-projects/cursor-auto-free/venv/Scripts/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/DLLs" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/Lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/3.9/DLLs" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/3.9/Lib" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/3.9" type="simple" />
             <root url="file://D:/Z-Data/git/ai-projects/cursor-auto-free/venv" type="simple" />
             <root url="file://D:/Z-Data/git/ai-projects/cursor-auto-free/venv/Lib/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1988904553" type="simple" />
