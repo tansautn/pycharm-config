@@ -11,7 +11,6 @@
     <debuggers>
       <debugger id="python">
         <configuration>
-          <option name="simplifiedView" value="false" />
           <option name="valuesPolicy" value="ON_DEMAND" />
           <option name="watchReturnValues" value="true" />
         </configuration>
