@@ -5,6 +5,7 @@
       <sshConfig host="161.35.79.214" id="60c7c91d-df55-4cf2-9ad8-f9825b01673c" keyPath="D:\Z-Data\rsa-zuko-cdma-pri.key" port="22" customName="root@pmit - ets" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="root@pmit - ets" />
       </sshConfig>
+      <sshConfig host="161.35.79.214" id="bf1e3b1c-ba42-464d-be80-8b7c4b80087d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="web" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
