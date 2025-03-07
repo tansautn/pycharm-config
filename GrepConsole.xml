@@ -177,6 +177,20 @@
                         </GrepStyle>
                       </option>
                     </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="fold" value="true" />
+                      <option name="grepExpression" value="urllib3\.(.*)" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-16742007" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="modules" />
@@ -202,8 +216,21 @@
                   </list>
                 </option>
               </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="grepExpression" value=".*data to write as JSON file.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="Modules" />
+              </GrepExpressionGroup>
             </list>
           </option>
+          <option name="multilineInputFilter" value="true" />
           <option name="name" value="default" />
           <option name="showStatsInConsoleByDefault" value="true" />
           <option name="showStatsInStatusBarByDefault" value="true" />
