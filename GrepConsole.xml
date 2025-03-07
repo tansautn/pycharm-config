@@ -230,7 +230,6 @@
               </GrepExpressionGroup>
             </list>
           </option>
-          <option name="multilineInputFilter" value="true" />
           <option name="name" value="default" />
           <option name="showStatsInConsoleByDefault" value="true" />
           <option name="showStatsInStatusBarByDefault" value="true" />
