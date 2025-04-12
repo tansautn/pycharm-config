@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="aria2p" />
+            <option value="the assets directory." />
           </set>
         </option>
       </SuppressingContext>
