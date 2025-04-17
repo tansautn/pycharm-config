@@ -22,6 +22,6 @@
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
       <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
-    <client-id value="005AE8609592494F906287C844F5B36C" />
+    <client-id value="B8659186E6EF4040806E1DDBFF79978D" />
   </component>
 </application>
