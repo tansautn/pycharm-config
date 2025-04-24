@@ -12,6 +12,7 @@
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
       <status project="D:/v" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/Z-Data/git/tele_all_bots/bvauto/socker/proxy-checker" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/ytl-scheduled" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_gmeoy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ai-projects/acapella2kara" dbn="PASSIVE" sql="PASSIVE" />
