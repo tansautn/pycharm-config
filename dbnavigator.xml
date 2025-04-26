@@ -11,12 +11,14 @@
   </component>
   <component name="DBNavigator.Application.PluginStatusManager">
     <plugin-statuses>
+      <status project="D:/MyLink/git_repositories/mylink_gmeoy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/v" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/tele_all_bots/bvauto/socker/proxy-checker" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/ytl-scheduled" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_gmeoy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ai-projects/acapella2kara" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/tele_all_bots/bvauto" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/MyLink/git_repositories/mylink_ccpy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_cerm" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ytrmtp-scheduled" dbn="PASSIVE" sql="ACTIVE" />
       <status project="D:/Z-Data/git/pyqtside" dbn="PASSIVE" sql="PASSIVE" />
@@ -38,7 +40,7 @@
       </developer-mode>
       <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
-      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+      <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
     <client-id value="2616BC6F72B147D0B865104353AAADB1" />
   </component>
