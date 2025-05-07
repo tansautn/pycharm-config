@@ -2109,6 +2109,9 @@
             <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/DLLs" type="simple" />
             <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib" type="simple" />
             <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/pythonwin" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/508836873" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
