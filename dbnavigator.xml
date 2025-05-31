@@ -26,6 +26,7 @@
       <status project="D:/Z-Data/git/qt-apps/yt-2dlp-ext" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/cmd-tools/vconcat" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/base" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="E:/MyLink/bvauto2" dbn="PASSIVE" sql="PASSIVE" />
       <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ai-projects/cursor-auto-free" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
@@ -39,7 +40,7 @@
       </developer-mode>
       <debug-logging failsafe-errors="false" database-access="false" database-resource="false" />
       <database-lag enabled="false" connectivity="2000" querying="2000" fetching="500" />
-      <miscellaneous dialog-sizing-reset="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
+      <miscellaneous dialog-sizing-reset="false" native-alerts-enabled="false" bulk-actions-enabled="false" background-disposer-disabled="false" timeout-handling-disabled="false" />
     </diagnostics>
     <client-id value="2616BC6F72B147D0B865104353AAADB1" />
   </component>
