@@ -1,5 +1,6 @@
 <application>
   <component name="ExtraTciSettings">
     <option name="uiTypeIconsPreference" value="PREFER_OLD_UI_ICONS" />
+    <option name="lifetimeLicHintNotifDisplayed2" value="true" />
   </component>
 </application>
