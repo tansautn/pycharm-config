@@ -2,8 +2,16 @@
   <component name="com.codeium.intellij.settings.AppSettingsState">
     <option name="autoUpdateCodeium" value="false" />
     <option name="chatInlayEnabled" value="false" />
+    <option name="completedCascadeOnboardingItems">
+      <list>
+        <option value="ONBOARDING_ACTION_TYPE_COMMAND" />
+      </list>
+    </option>
+    <option name="enableCascadeToolWindow" value="false" />
     <option name="firstInstall" value="false" />
+    <option name="hasShownPreReleaseNotification" value="true" />
     <option name="indexingMaxFileCount" value="64000" />
+    <option name="showCascadeWelcomePage" value="false" />
     <option name="showChatCommandHint" value="false" />
     <option name="showCodeiumSelectionToolbar" value="false" />
   </component>
