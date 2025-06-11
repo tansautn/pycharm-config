@@ -16,7 +16,13 @@
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="EditorSelectWord" />
+  <action id="EditorSwapSelectionBoundaries">
+    <mouse-shortcut keystroke="shift button1 doubleClick" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -37,7 +43,7 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="PinActiveTabToggle">
+  <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="Profiler.RevealSnapshotAction">
