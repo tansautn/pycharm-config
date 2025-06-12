@@ -73,11 +73,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.QuickPartitionAction" />
-        <option name="description" value="Partition matching lines from not-matching" />
-        <option name="modelClass" value="osmedile.intellij.stringmanip.filter.GrepSettings" />
-        <option name="modelData" value="&lt;GrepSettings&gt;&#10;  &lt;option name=&quot;caseSensitive&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;fullWords&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;groupMatching&quot; value=&quot;true&quot; /&gt;&#10;  &lt;option name=&quot;inverted&quot; value=&quot;false&quot; /&gt;&#10;  &lt;option name=&quot;pattern&quot; value=&quot;core/task/TaskMonitor.py&quot; /&gt;&#10;  &lt;option name=&quot;regex&quot; value=&quot;false&quot; /&gt;&#10;&lt;/GrepSettings&gt;" />
-        <option name="textWithMnemonic" value="Partition" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrCamelCaseCaseAction" />
+        <option name="description" value="Toggle: kebab-case / camelCase" />
+        <option name="textWithMnemonic" value="kebab-case / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
