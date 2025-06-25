@@ -3,7 +3,6 @@
     <jdk version="2">
       <name value="bvauto2" />
       <type value="Python SDK" />
-      <version value="Python 3.11.11" />
       <homePath value="D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/python.exe" />
       <roots>
         <classPath>
