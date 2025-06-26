@@ -1,20 +1,20 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="ytrmtp-scheduled" />
+      <name value="bvauto2" />
       <type value="Python SDK" />
-      <version value="Python 3.11.10" />
-      <homePath value="D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/python.exe" />
+      <version value="Python 3.11.11" />
+      <homePath value="D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/DLLs" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/Lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/Lib/site-packages" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/Lib/site-packages/win32" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/ytrmtp-scheduled/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/-160847074" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/DLLs" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/Lib" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/Lib/site-packages" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/bvauto2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1166794559" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -171,26 +171,26 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="1c1458ac-1e81-44ca-9c3a-84034965102e">
+      <additional SDK_UUID="585d310d-2d30-4fdb-99cb-4d74548d0c88">
         <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;ytrmtp-scheduled&quot;,&quot;userReadableName&quot;:&quot;ytrmtp-scheduled&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\python\\anaconda3\\condabin\\conda.bat&quot;}}" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;bvauto2&quot;,&quot;userReadableName&quot;:&quot;bvauto2&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\python\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="pyside" />
+      <name value="mylink_ccpy" />
       <type value="Python SDK" />
-      <version value="Python 3.11.10" />
-      <homePath value="D:/Z-Data/DevTools/python/anaconda3/envs/pyside/python.exe" />
+      <version value="Python 3.11.12" />
+      <homePath value="$USER_HOME$/.conda/envs/mylink_ccpy/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/DLLs" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/Lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/Lib/site-packages" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/Lib/site-packages/win32" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/anaconda3/envs/pyside/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1682780400" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/508836873" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -347,25 +347,27 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="e5bc9753-69b1-4bb4-bece-53aed84b0dea">
+      <additional SDK_UUID="ac06dc10-16dc-4bbd-8c5e-2fa92d2ca2a6">
         <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;pyside&quot;,&quot;userReadableName&quot;:&quot;pyside&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\python\\anaconda3\\condabin\\conda.bat&quot;}}" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="Python 3.9 (v)" />
+      <name value="Python 3.12" />
       <type value="Python SDK" />
-      <version value="Python 3.9.13" />
-      <homePath value="D:/v/.env/Scripts/python.exe" />
+      <version value="Python 3.12.7" />
+      <homePath value="D:/Z-Data/DevTools/anaconda3/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://D:/Z-Data/DevTools/python/3.9/DLLs" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/3.9/Lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/3.9" type="simple" />
-            <root url="file://D:/v/.env" type="simple" />
-            <root url="file://D:/v/.env/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/123194533" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/DLLs" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python312/site-packages" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Z-Data/DevTools/anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1248337239" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -522,9 +524,9 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="b93b9bd4-ca03-4cd5-b5a0-7ee94cd9d048">
-        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
+      <additional SDK_UUID="ff514a51-cd01-4752-8e3a-88c23e60c4a8">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;UnnamedEnv&quot;,&quot;data&quot;:{&quot;envPath&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3&quot;,&quot;isBase&quot;:true,&quot;userReadableName&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
   </component>

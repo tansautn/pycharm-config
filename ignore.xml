@@ -45,6 +45,8 @@
 *.iml
 out
 gen</template>
+      <template name="Ignore Everything (Data dir)">*
+!.gitignore</template>
     </userTemplates>
   </component>
 </application>
