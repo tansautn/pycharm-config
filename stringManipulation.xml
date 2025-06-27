@@ -73,9 +73,9 @@
     </option>
     <option name="lastActionModel">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToSnakeCaseOrCamelCaseAction" />
-        <option name="description" value="Toggle: snake_case / camelCase" />
-        <option name="textWithMnemonic" value="snake_case / camelCase" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToKebabOrCamelCaseCaseAction" />
+        <option name="description" value="Toggle: kebab-case / camelCase" />
+        <option name="textWithMnemonic" value="kebab-case / camelCase" />
       </UniversalActionModel>
     </option>
   </component>
