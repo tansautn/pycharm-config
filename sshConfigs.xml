@@ -6,9 +6,6 @@
         <option name="customName" value="root@pmit - ets" />
       </sshConfig>
       <sshConfig host="161.35.79.214" id="bf1e3b1c-ba42-464d-be80-8b7c4b80087d" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="web" useOpenSSHConfig="true" />
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="p.zuko.pro" id="8736e317-a350-41a5-8768-7ed00c117e4a" keyPath="D:\Z-Data\rsa-zuko-cdmx-openssh.key" port="6022" customName="root@p.zuko.pro:6022" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="root@p.zuko.pro:6022" />
-      </sshConfig>
     </configs>
   </component>
 </application>
