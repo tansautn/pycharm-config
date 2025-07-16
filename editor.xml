@@ -81,7 +81,6 @@
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="250" />
-    <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
