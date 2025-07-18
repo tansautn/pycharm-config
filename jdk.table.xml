@@ -720,17 +720,17 @@
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="mylink_sms-activate-py" />
+      <name value="sms-activate-py" />
       <type value="Python SDK" />
       <version value="Python 3.11.13" />
-      <homePath value="$USER_HOME$/.conda/envs/mylink_sms-activate-py/python.exe" />
+      <homePath value="$USER_HOME$/.conda/envs/sms-activate-py/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.conda/envs/mylink_sms-activate-py/DLLs" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_sms-activate-py/Lib" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_sms-activate-py/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/283677405" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/sms-activate-py/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/sms-activate-py/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/sms-activate-py/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/1211382940" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -887,9 +887,9 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="befd512b-d7c7-4788-8264-0505caef5498">
+      <additional SDK_UUID="9b4abc64-6a6c-49c2-9244-1c9f88b4c2f4">
         <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_sms-activate-py&quot;,&quot;userReadableName&quot;:&quot;mylink_sms-activate-py&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;sms-activate-py&quot;,&quot;userReadableName&quot;:&quot;sms-activate-py&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
   </component>
