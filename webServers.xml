@@ -29,6 +29,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="c131a804-6450-4f11-9903-35e0157601d9" name="proxychecker">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="00582cd6-6e27-4548-878f-da28587efd2b" sshConfig="web@p.zuko.pro:6022 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
