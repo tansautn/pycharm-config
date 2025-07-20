@@ -30,6 +30,7 @@
       <status project="E:/MyLink/git_repositories/mylink_cerm" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/mylink_sms-activate-py" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ytrmtp-scheduled" dbn="PASSIVE" sql="ACTIVE" />
+      <status project="D:/Z-Data/git/python-app" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/mylink_ccpy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/ffpm" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/yt-2dlp-ext" dbn="PASSIVE" sql="PASSIVE" />
