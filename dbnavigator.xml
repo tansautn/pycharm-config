@@ -41,6 +41,7 @@
       <status project="D:/Z-Data/git/qt-apps/base" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/bvauto2" dbn="PASSIVE" sql="PASSIVE" />
       <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/personal_git/ai-projects/live-speech-agent" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/vpn-rotator" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>
