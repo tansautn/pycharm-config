@@ -5,7 +5,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="33">
+        <list size="30">
           <item index="0" class="java.lang.String" itemvalue="loguru" />
           <item index="1" class="java.lang.String" itemvalue="xattr" />
           <item index="2" class="java.lang.String" itemvalue="pyrogram-peer-fix" />
@@ -36,9 +36,6 @@
           <item index="27" class="java.lang.String" itemvalue="multidict" />
           <item index="28" class="java.lang.String" itemvalue="yarl" />
           <item index="29" class="java.lang.String" itemvalue="aiosignal" />
-          <item index="30" class="java.lang.String" itemvalue="PyAudio" />
-          <item index="31" class="java.lang.String" itemvalue="pydub" />
-          <item index="32" class="java.lang.String" itemvalue="websockets" />
         </list>
       </value>
     </option>
