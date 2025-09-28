@@ -15,5 +15,6 @@
     <option name="openExplainProblemInCurrentConversation" value="true" />
     <option name="showCascadeWelcomePage" value="false" />
     <option name="showChatCommandHint" value="false" />
+    <option name="showSelectionToolbar" value="false" />
   </component>
 </application>
