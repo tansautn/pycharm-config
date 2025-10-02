@@ -11,6 +11,8 @@
     <debuggers>
       <debugger id="python">
         <configuration>
+          <option name="librariesFilterEnabled" value="true" />
+          <option name="steppingFiltersEnabled" value="true" />
           <option name="valuesPolicy" value="ON_DEMAND" />
           <option name="watchReturnValues" value="true" />
         </configuration>
