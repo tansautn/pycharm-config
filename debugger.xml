@@ -12,6 +12,13 @@
       <debugger id="python">
         <configuration>
           <option name="librariesFilterEnabled" value="true" />
+          <option name="steppingFilters">
+            <list>
+              <PySteppingFilter>
+                <option name="filter" value="core.*" />
+              </PySteppingFilter>
+            </list>
+          </option>
           <option name="steppingFiltersEnabled" value="true" />
           <option name="valuesPolicy" value="ON_DEMAND" />
           <option name="watchReturnValues" value="true" />
