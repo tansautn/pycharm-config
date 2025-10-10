@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="mylink_ccpy" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/.conda/envs/mylink_ccpy/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="5bb73a45-1e8a-425c-91a9-3d85c9a614b8">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+  </component>
+</application>
