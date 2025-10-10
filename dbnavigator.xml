@@ -24,10 +24,12 @@
       <status project="D:/MyLink/git_repositories/zukey" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/cmd-tools/vconcat" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ai-projects/cursor-auto-free" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/personal_git/ai-projects/acapella2kara" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/tele_all_bots/bvauto/socker/proxy-checker" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/ytl-scheduled" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/cursor-auto-free" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/sms-activate-py" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/personal_git/bvauto2" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/tele_all_bots/bvauto" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/mylink_ccpy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_cerm" dbn="PASSIVE" sql="PASSIVE" />
@@ -41,6 +43,7 @@
       <status project="D:/Z-Data/git/qt-apps/base" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/bvauto2" dbn="PASSIVE" sql="PASSIVE" />
       <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/personal_git/ai-projects/live-speech-agent" dbn="PASSIVE" sql="PASSIVE" />
       <status project="DEFAULT" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/vpn-rotator" dbn="PASSIVE" sql="PASSIVE" />
     </plugin-statuses>
