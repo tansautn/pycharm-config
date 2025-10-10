@@ -350,5 +350,22 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;UnnamedEnv&quot;,&quot;data&quot;:{&quot;envPath&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3&quot;,&quot;isBase&quot;:true,&quot;userReadableName&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="mylink_ccpy" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/.conda/envs/mylink_ccpy/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="419e7d35-d6f8-4795-a044-2469769bb078">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>
