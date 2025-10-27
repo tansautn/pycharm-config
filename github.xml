@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account name="tansautn" id="8f2ac61a-1ce6-45b3-bdc3-8affad914179">
-      <server useHttp="false" host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="PRIVATE_GIST" value="false" />
   </component>

@@ -16,6 +16,7 @@
     <keyboard-shortcut first-keystroke="ctrl divide" />
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="DBNavigator.Actions.SourceEditor.Save" />
   <action id="EditorDeleteLine" />
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl numpad0" />
@@ -60,6 +61,12 @@
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
   </action>
+  <action id="RemoteHostView.EditRemoteFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt o" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="shift ctrl alt s" />
+  </action>
   <action id="ServiceView.ShowServices" />
   <action id="ShowUmlDiagram" />
   <action id="StringManipulation.SwitchStyleAction">
@@ -74,4 +81,7 @@
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.UpdateProject" />
+  <action id="WD.UploadCurrentRemoteFileAction">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
 </keymap>

@@ -42,6 +42,7 @@
       <status project="D:/Z-Data/git/qt-apps/yt-2dlp-ext" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/mylink_wm-register" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ffpm" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/Z-Data/git/tele_all_bots/tele-leech-bot" dbn="PASSIVE" sql="ACTIVE" />
       <status project="D:/Z-Data/git/qt-apps/base" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/bvauto2" dbn="PASSIVE" sql="PASSIVE" />
       <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
