@@ -179,7 +179,6 @@
     <jdk version="2">
       <name value="lamda" />
       <type value="Python SDK" />
-      <version value="Python 3.11.14" />
       <homePath value="$USER_HOME$/.conda/envs/lamda/python.exe" />
       <roots>
         <classPath>
