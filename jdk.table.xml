@@ -698,5 +698,22 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="mylink_gmeoy" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/.conda/envs/mylink_gmeoy/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="2e0768c5-5a3b-4c90-b61f-e6528d00df6e">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_gmeoy&quot;,&quot;userReadableName&quot;:&quot;mylink_gmeoy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>
