@@ -12,6 +12,7 @@
       <debugger id="python">
         <configuration>
           <option name="librariesFilterEnabled" value="true" />
+          <option name="quotingPolicy" value="NONE" />
           <option name="steppingFilters">
             <list>
               <PySteppingFilter>
