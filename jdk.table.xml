@@ -1,17 +1,20 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="lamda (2)" />
+      <name value="mylink_ccpy" />
       <type value="Python SDK" />
-      <version value="Python 3.11.14" />
-      <homePath value="$USER_HOME$/.conda/envs/lamda/python.exe" />
+      <version value="Python 3.11.12" />
+      <homePath value="$USER_HOME$/.conda/envs/mylink_ccpy/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.conda/envs/lamda/DLLs" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/lamda/Lib" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/lamda/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/304897654" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/508836873" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -168,9 +171,9 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="5e979b5f-216e-4336-9d46-02c3cbf7bd4b">
+      <additional SDK_UUID="5bb73a45-1e8a-425c-91a9-3d85c9a614b8">
         <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;lamda&quot;,&quot;userReadableName&quot;:&quot;lamda&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
     <jdk version="2">
@@ -347,20 +350,17 @@
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="mylink_ccpy" />
+      <name value="lamda (2)" />
       <type value="Python SDK" />
-      <version value="Python 3.11.12" />
-      <homePath value="$USER_HOME$/.conda/envs/mylink_ccpy/python.exe" />
+      <version value="Python 3.11.14" />
+      <homePath value="$USER_HOME$/.conda/envs/lamda/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/DLLs" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://$USER_HOME$/.conda/envs/mylink_ccpy/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/508836873" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/lamda/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/lamda/Lib" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/lamda/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/python_stubs/304897654" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stubs/gdb" type="simple" />
@@ -517,9 +517,9 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="5bb73a45-1e8a-425c-91a9-3d85c9a614b8">
+      <additional SDK_UUID="d91c93a2-1ecf-4224-afd2-ba91ec5d7871">
         <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_ccpy&quot;,&quot;userReadableName&quot;:&quot;mylink_ccpy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;lamda&quot;,&quot;userReadableName&quot;:&quot;lamda&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
   </component>
