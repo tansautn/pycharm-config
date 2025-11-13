@@ -1,7 +1,8 @@
 <application>
   <component name="com.codeium.intellij.utilities.ExtensionStorage">
+    <option name="hasShownNewCompletionApiNotification" value="true" />
     <option name="installationId" value="e24e6cba-0eac-49ec-b6d9-40ea33b6f967" />
-    <option name="lastChangelogVersionShown" value="1.28" />
+    <option name="lastChangelogVersionShown" value="2.6.8" />
     <option name="loggedFirstInstall" value="true" />
     <option name="sessionId" value="bdd08055-b953-4bca-91ea-0e3c615e4a0a" />
   </component>

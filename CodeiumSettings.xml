@@ -1,6 +1,8 @@
 <application>
   <component name="com.codeium.intellij.settings.AppSettingsState">
-    <option name="autoUpdateCodeium" value="false" />
+    <option name="allowCascadeAccessGitignoreFiles" value="true" />
+    <option name="autocompleteEnabled" value="false" />
+    <option name="autocompleteSpeed" value="AUTOCOMPLETE_SPEED_SLOW" />
     <option name="cascadeOnboardingCompleted" value="true" />
     <option name="chatInlayEnabled" value="false" />
     <option name="completedCascadeOnboardingItems">
@@ -9,12 +11,13 @@
         <option value="ONBOARDING_ACTION_TYPE_AUTOCOMPLETE" />
       </list>
     </option>
+    <option name="enableAutoGenerateMemories" value="false" />
     <option name="enableCascadeToolWindow" value="false" />
     <option name="firstInstall" value="false" />
     <option name="hasShownPreReleaseNotification" value="true" />
-    <option name="indexingMaxFileCount" value="64000" />
+    <option name="openChatOnReload" value="false" />
     <option name="showCascadeWelcomePage" value="false" />
     <option name="showChatCommandHint" value="false" />
-    <option name="showCodeiumSelectionToolbar" value="false" />
+    <option name="showSelectionToolbar" value="false" />
   </component>
 </application>

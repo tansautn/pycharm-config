@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3e376c21-e4e6-4d81-97a8-b30f9133f3da" name="TELEBOT" url="http://pit.zuko.pro:8881">
-        <fileTransfer accessType="SFTP" host="161.35.79.214" port="22" sshConfigId="60c7c91d-df55-4cf2-9ad8-f9825b01673c" sshConfig="root@pmit - ets" keyPair="true">
+        <fileTransfer rootFolder="/root/telebot" accessType="SFTP" host="103.56.163.236" port="24700" sshConfigId="86fff6bb-e9ce-4502-9477-d0fc71351be1" sshConfig="root@KNPT" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -24,6 +24,13 @@
       </webServer>
       <webServer id="9b10162f-7365-4f80-9dd0-c5cb20a3d084" name="Bv Auto">
         <fileTransfer rootFolder="/root" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="b9de61c4-6298-47b6-a039-a77a36d2cac7" sshConfig="root@p.zuko.pro:6022" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c131a804-6450-4f11-9903-35e0157601d9" name="proxychecker">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="00582cd6-6e27-4548-878f-da28587efd2b" sshConfig="web@p.zuko.pro:6022 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
