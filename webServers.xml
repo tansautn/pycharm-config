@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3e376c21-e4e6-4d81-97a8-b30f9133f3da" name="TELEBOT" url="http://pit.zuko.pro:8881">
-        <fileTransfer rootFolder="/root/telebot" accessType="SFTP" host="103.56.163.236" port="24700" sshConfigId="86fff6bb-e9ce-4502-9477-d0fc71351be1" sshConfig="root@KNPT" keyPair="true">
+        <fileTransfer rootFolder="/root/telebot" accessType="SFTP" sshConfigId="86fff6bb-e9ce-4502-9477-d0fc71351be1" sshConfig="root@KNPT">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

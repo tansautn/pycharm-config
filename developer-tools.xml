@@ -1,5 +1,9 @@
 <application>
-  <component name="DeveloperToolsApplicationSettingsV1" addOpenMainDialogActionToMainToolbar="false" autoDetectActionHandlingInstance="true" editorShowSpecialCharacters="false" editorShowWhitespaces="false" editorSoftWraps="true" hideWorkbenchTabsOnSingleTab="true" loadExamples="true" promoteAddOpenMainDialogActionToMainToolbar="true" saveConfigurations="true" saveInputs="true" saveSensitiveInputs="false" selectedActionHandlingInstance="Tool Window" showInternalTools="true" toolsMenuTreeOrderAlphabetically="true" toolsMenuTreeShowGroupNodes="false" />
+  <component name="DeveloperToolsApplicationSettingsV1">
+    <GeneralSettings showInternalTools="true" />
+    <InternalSettings />
+    <JsonHandlingSettings />
+  </component>
   <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false">
     <developerToolsConfigurations />
   </component>
