@@ -905,5 +905,30 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;gmeoy&quot;,&quot;userReadableName&quot;:&quot;gmeoy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\DevTools\\anaconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="default" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.0" />
+      <homePath value="D:/personal_git/test_projects/PyQt-SiliconUI/.pixi/envs/default/python.EXE" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/personal_git/test_projects/PyQt-SiliconUI/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/personal_git/test_projects/PyQt-SiliconUI/.pixi/envs/default/Lib" type="simple" />
+            <root url="file://D:/personal_git/test_projects/PyQt-SiliconUI/.pixi/envs/default/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/274946878" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="4b301ec9-2e00-4791-bfea-3bd86165d4b1">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\personal_git\\test_projects\\PyQt-SiliconUI\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>
