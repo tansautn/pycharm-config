@@ -4,12 +4,12 @@
       <list>
         <KeywordTokenDescriptor>
           <isMethodKeyword>true</isMethodKeyword>
-          <token>public</token>
+          <token>abstract</token>
           <severity>TEXT</severity>
         </KeywordTokenDescriptor>
         <KeywordTokenDescriptor>
           <isMethodKeyword>true</isMethodKeyword>
-          <token>abstract</token>
+          <token>public</token>
           <severity>TEXT</severity>
         </KeywordTokenDescriptor>
       </list>

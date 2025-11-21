@@ -24,9 +24,6 @@
       <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
     </formatting-settings>
   </DBN-SQL>
-  <JSCodeStyleSettings version="0">
-    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
-  </JSCodeStyleSettings>
   <Python>
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
