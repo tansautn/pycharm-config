@@ -8,8 +8,29 @@
       <roots>
         <classPath>
           <root type="composite">
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib" type="simple" />
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages" type="simple" />
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/pythonwin" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/-416164419" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pytz" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/greenlet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/SQLAlchemy" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -17,13 +38,6 @@
         </sourcePath>
       </roots>
       <additional SDK_UUID="6426297b-72c1-4cfe-9603-05532751d6ff">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/DLLs" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/pythonwin" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/win32/lib" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages/win32" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/personal_git/bvauto2/.pixi/envs/default/Lib/site-packages" />
         <setting name="FLAVOR_ID" value="Conda" />
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\personal_git\\bvauto2\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
       </additional>
