@@ -1,0 +1,14 @@
+<application>
+  <component name="MatterhornModelPersistentStateComponent">
+    <option name="actionWhiteList">
+      <list>
+        <Allowed>
+          <option name="actionRegex" value="^\Qpytest -q tests_auto/test_temp_guidelines.py\E$" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+      </list>
+    </option>
+    <option name="autoModeEnabled" value="true" />
+    <option name="speedMode" value="Quality" />
+  </component>
+</application>
