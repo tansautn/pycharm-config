@@ -6,6 +6,14 @@
           <option name="actionRegex" value="^\Qpytest -q tests_auto/test_temp_guidelines.py\E$" />
           <option name="actionType" value="Terminal" />
         </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^\Qpytest -q tests_auto/test_guidelines_temp_junie.py\E$" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
+        <Allowed>
+          <option name="actionRegex" value="^\Qpython scripts\run_pytest.py -q tests_auto\test_guidelines_temp_junie.py\E$" />
+          <option name="actionType" value="Terminal" />
+        </Allowed>
       </list>
     </option>
     <option name="autoModeEnabled" value="true" />
