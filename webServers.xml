@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="9b10162f-7365-4f80-9dd0-c5cb20a3d084" name="Bv Auto">
-        <fileTransfer rootFolder="/root" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="b9de61c4-6298-47b6-a039-a77a36d2cac7" sshConfig="root@p.zuko.pro:6022" keyPair="true">
+        <fileTransfer rootFolder="/www/html/bvauto" accessType="SFTP" host="p.zuko.pro" port="6022" sshConfigId="b9de61c4-6298-47b6-a039-a77a36d2cac7" sshConfig="root@p.zuko.pro:6022" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
