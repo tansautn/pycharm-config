@@ -2,6 +2,7 @@
   <component name="com.intellij.aiplayground.settings.PlaygroundSettingsState">
     <providers>
       <provider id="629c7a8c-0a4c-45e8-9eeb-6cc53f77cd61" providerId="gemini" displayName="Gemini" />
+      <provider id="58e6c3cd-bc39-40c5-b2ee-2339712fa0f9" providerId="aiassistant" displayName="AI Assistant" />
     </providers>
     <recentModels>
       <model instanceId="629c7a8c-0a4c-45e8-9eeb-6cc53f77cd61" modelId="models/gemini-pro-latest" />
