@@ -1,6 +1,6 @@
 <application>
   <component name="DeveloperToolsApplicationSettingsV1">
-    <GeneralSettings showInternalTools="true" />
+    <GeneralSettings addOpenMainDialogActionToMainToolbar="true" saveSensitiveInputs="true" showInternalTools="true" toolWindowUiCacheUi="true" toolsMenuTreeShowGroupNodes="true" />
     <InternalSettings />
     <JsonHandlingSettings />
   </component>
