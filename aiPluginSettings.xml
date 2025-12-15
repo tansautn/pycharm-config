@@ -1,0 +1,6 @@
+<application>
+  <component name="AiPluginSettings">
+    <option name="enableAutomaticGenerationOutlines" value="true" />
+    <option name="shortcutNotificationShown" value="true" />
+  </component>
+</application>
