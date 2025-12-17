@@ -8,6 +8,17 @@
         <entry key="trachphanvoduyen@gmail.com" value="1765888744322" />
       </map>
     </option>
+    <option name="privacyBannerDismissedByEmail">
+      <map>
+        <entry key="trachphanvoduyen@gmail.com">
+          <value>
+            <PrivacyBannerDismissalInfo>
+              <option name="dismissalType" value="DISMISSED_PERMANENTLY" />
+            </PrivacyBannerDismissalInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="shortcutNotificationShown" value="true" />
   </component>
 </application>
