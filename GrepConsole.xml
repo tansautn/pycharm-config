@@ -249,6 +249,26 @@
                 </option>
                 <option name="name" value="Modules" />
               </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
+              </GrepExpressionGroup>
             </list>
           </option>
           <option name="name" value="default" />
