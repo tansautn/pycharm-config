@@ -2,7 +2,7 @@
   <component name="DeveloperToolsApplicationSettingsV1">
     <GeneralSettings addOpenMainDialogActionToMainToolbar="true" saveSensitiveInputs="true" showInternalTools="true" toolWindowUiCacheUi="true" toolsMenuTreeShowGroupNodes="true" />
     <InternalSettings />
-    <JsonHandlingSettings />
+    <JsonHandlingSettings readAllowLeadingZerosForNumbers="true" readAllowTrailingComma="true" readAllowUnquotedFieldNames="true" writeEscapeNonAscii="true" />
   </component>
   <component name="DeveloperToolsDialogSettingsV1" dialogIsModal="false">
     <developerToolsConfigurations />
