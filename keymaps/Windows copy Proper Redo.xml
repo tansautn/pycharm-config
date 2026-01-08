@@ -25,10 +25,11 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoTest" />
   <action id="GrepConsole.TailQuickSwitch" />
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="ctrl h" />
@@ -65,6 +66,7 @@
   </action>
   <action id="TableResult.GrowSelection" />
   <action id="TableResult.SelectColumn" />
+  <action id="Terminal.NewTab" />
   <action id="TextSearchAction" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
