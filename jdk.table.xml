@@ -57,7 +57,6 @@
             <root url="file://D:/Z-Data/git/qt-apps/base_new/.venv/Lib/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1246393733" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
           </root>
         </classPath>
         <sourcePath>
