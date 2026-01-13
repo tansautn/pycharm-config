@@ -43,33 +43,6 @@
       </additional>
     </jdk>
     <jdk version="2">
-      <name value="uv (base_new)" />
-      <type value="Python SDK" />
-      <version value="Python 3.13.5" />
-      <homePath value="D:/Z-Data/git/qt-apps/base_new/.venv/Scripts/python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://D:/Z-Data/DevTools/python/miniconda3/DLLs" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/miniconda3/Lib" type="simple" />
-            <root url="file://D:/Z-Data/DevTools/python/miniconda3" type="simple" />
-            <root url="file://D:/Z-Data/git/qt-apps/base_new/.venv" type="simple" />
-            <root url="file://D:/Z-Data/git/qt-apps/base_new/.venv/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1246393733" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="D:/Z-Data/git/qt-apps/base_new" SDK_UUID="ed04fe1d-4f60-47ef-91c0-79a072283672" IS_UV="true" UV_WORKING_DIR="D:\Z-Data\git\qt-apps\base_new">
-        <setting name="FLAVOR_ID" value="UvSdkFlavor" />
-        <setting name="FLAVOR_DATA" value="{}" />
-      </additional>
-    </jdk>
-    <jdk version="2">
       <name value="bvauto(default)" />
       <type value="Python SDK" />
       <version value="Python 3.11.14" />
@@ -126,6 +99,42 @@
       <additional SDK_UUID="2e0768c5-5a3b-4c90-b61f-e6528d00df6e">
         <setting name="FLAVOR_ID" value="Conda" />
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_gmeoy&quot;,&quot;userReadableName&quot;:&quot;mylink_gmeoy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="base_new pixi (default)" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.2" />
+      <homePath value="D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/lib" type="simple" />
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/lib/site-packages" type="simple" />
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Z-Data/git/qt-apps/base_new/.pixi/envs/default/lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/-1622210100" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/openpyxl" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="03aa9201-edca-4327-ab8c-97bbe256a124">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\git\\qt-apps\\base_new\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
       </additional>
     </jdk>
     <jdk version="2">
