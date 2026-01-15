@@ -43,6 +43,40 @@
       </additional>
     </jdk>
     <jdk version="2">
+      <name value="bang-bang | pixi default" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.2" />
+      <homePath value="D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/win32" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1765024330" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="61317710-c383-4131-acac-134494682abf">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\MyLink\\git_repositories\\bang-bang-auto\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
       <name value="bvauto(default)" />
       <type value="Python SDK" />
       <version value="Python 3.11.14" />
@@ -83,13 +117,6 @@
             <root url="file://$USER_HOME$/.conda/envs/mylink_gmeoy/Lib/site-packages/pythonwin" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/-623607005" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
           </root>
         </classPath>
         <sourcePath>
