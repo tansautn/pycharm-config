@@ -3,6 +3,9 @@
     <providers>
       <provider id="629c7a8c-0a4c-45e8-9eeb-6cc53f77cd61" providerId="gemini" displayName="Gemini" />
       <provider id="58e6c3cd-bc39-40c5-b2ee-2339712fa0f9" providerId="aiassistant" displayName="AI Assistant" />
+      <provider id="cbf298fa-c7d9-46c3-a67d-efd8498512b0" providerId="anthropic" displayName="Anthropic" />
+      <provider id="a7a2669b-f163-464f-8a00-13ea961096a1" providerId="deepseek" displayName="Deepseek" />
+      <provider id="9a37221b-f2db-4dba-82d3-e8771683e5ce" providerId="open_router" displayName="OpenRouter" />
     </providers>
     <recentModels>
       <model instanceId="629c7a8c-0a4c-45e8-9eeb-6cc53f77cd61" modelId="models/gemini-pro-latest" />
