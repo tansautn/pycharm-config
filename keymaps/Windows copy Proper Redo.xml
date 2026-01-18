@@ -7,6 +7,7 @@
   <action id="ActivateGitHubActionsToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt g" />
   </action>
+  <action id="ChangesView.Move" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
@@ -71,6 +72,9 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.WriteAccess" />
+  <action id="Vcs.MoveChangedLinesToChangelist">
+    <keyboard-shortcut first-keystroke="shift ctrl alt m" />
+  </action>
   <action id="Vcs.UpdateProject" />
   <action id="WD.UploadCurrentRemoteFileAction">
     <keyboard-shortcut first-keystroke="ctrl s" />
