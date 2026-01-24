@@ -58,14 +58,14 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="61317710-c383-4131-acac-134494682abf">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/win32/lib" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/pythonwin" />
+      <additional ASSOCIATED_PROJECT_PATH="D:/MyLink/git_repositories/bang-bang-auto" SDK_UUID="61317710-c383-4131-acac-134494682abf">
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/win32/lib" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/pythonwin" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default" />
         <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/DLLs" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/lib/site-packages/win32" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages" />
+        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/win32" />
         <setting name="FLAVOR_ID" value="Conda" />
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\MyLink\\git_repositories\\bang-bang-auto\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
       </additional>
