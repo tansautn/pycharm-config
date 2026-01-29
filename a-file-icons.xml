@@ -2,7 +2,6 @@
   <component name="AtomFileIconsConfig">
     <option name="arrowsStyle" value="Darcula" />
     <option name="hasCustomIconSize" value="true" />
-    <option name="hideFileIcons" value="true" />
     <option name="saturatedIcons" value="true" />
   </component>
 </application>
