@@ -34,5 +34,44 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_gmeoy&quot;,&quot;userReadableName&quot;:&quot;mylink_gmeoy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="bangbang | px_default" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.11" />
+      <homePath value="D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1765024330" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pillow" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/aiofiles" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/openpyxl" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/MyLink/git_repositories/bang-bang-auto" SDK_UUID="ed958826-afee-4e18-b96d-9c2a61d8324b">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\MyLink\\git_repositories\\bang-bang-auto\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>

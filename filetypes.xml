@@ -5,8 +5,6 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern=".netrc" type="PLAIN_TEXT" />
       <mapping ext="mdc" type="PLAIN_TEXT" />
-      <mapping ext="sql" type="SQL" />
-      <mapping ext="ddl" type="SQL" />
       <mapping ext="ui" type="XML" />
       <removed_mapping ext="ahk" approved="true" type="AutoHotkey" />
       <removed_mapping ext="ddl" approved="true" type="DBN-SQL" />
