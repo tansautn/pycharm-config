@@ -25,13 +25,6 @@
           <option name="watchReturnValues" value="true" />
         </configuration>
       </debugger>
-      <debugger id="ObjectiveC">
-        <configuration>
-          <child-process-debugging-settings />
-          <macOS-symbol-settings />
-          <nt-symbol-settings />
-        </configuration>
-      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
