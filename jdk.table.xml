@@ -34,33 +34,5 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;mylink_gmeoy&quot;,&quot;userReadableName&quot;:&quot;mylink_gmeoy&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Z-Data\\python\\miniconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
-    <jdk version="2">
-      <name value="default" />
-      <type value="Python SDK" />
-      <version value="Python 3.13.0" />
-      <homePath value="D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/python.exe" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/DLLs" type="simple" />
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/Lib" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/Lib/site-packages" type="simple" />
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/Lib/site-packages/win32" type="simple" />
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://D:/MyLink/git_repositories/fixpycharm/.pixi/envs/default/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/-1081688908" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional SDK_UUID="827be7ba-ab8f-4fcd-a5f3-156343249f0e">
-        <setting name="FLAVOR_ID" value="Conda" />
-        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\MyLink\\git_repositories\\fixpycharm\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
-      </additional>
-    </jdk>
   </component>
 </application>

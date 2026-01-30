@@ -1,58 +1,50 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="TrialStateWidget" is_action="true" action_type="-1" position="7">
+    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Left" />
+      <path value="General Actions" />
     </group>
-    <group seperator="true" action_type="1" position="2">
+    <group value="WebDeployment.Options" is_action="true" action_type="1" position="2">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Left" />
+      <path value="General Actions" />
     </group>
     <group value="ExternalToolsGroup" is_group="true" forse_popup="false" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
     </group>
-    <group value="WebDeployment.Configuration" is_action="true" action_type="1" position="3">
+    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Left" />
+      <path value="General Actions" />
     </group>
     <group value="RemoteExternalToolsGroup" is_group="true" forse_popup="false" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
     </group>
-    <group value="WebDeployment.ToggleAutoUpload" is_action="true" action_type="1" position="4">
+    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Left" />
+      <path value="General Actions" />
     </group>
     <group seperator="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
     </group>
-    <group value="WebDeployment.Options" is_action="true" action_type="1" position="5">
+    <group value="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" is_action="true" action_type="1" position="5">
       <path value="root" />
       <path value="Main Toolbar" />
-      <path value="Right" />
+      <path value="Left" />
+      <path value="General Actions" />
     </group>
-    <group value="WebDeployment.BrowseServers" is_action="true" action_type="1" position="6">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-    </group>
-    <group seperator="true" action_type="1" position="7">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <path value="Right" />
-    </group>
-    <action id="PublishGroup.DownloadFrom" icon="DBNavigator.Actions.Commit" />
     <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" icon="ActivateTerminalToolWindow" />
     <action id="WebDeployment.Options" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_options.png" />
     <action id="WebDeployment.Configuration" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_config.png" />
     <action id="WebDeployment.ToggleAutoUpload" icon="D:/Onedrive/Pictures/icons/phpstorm/deployment_autoupload.png" />
-    <action id="PublishGroup.UploadAllOpenFilesTo" icon="DBNavigator.Actions.Rollback" />
-    <action id="PublishGroup.SyncLocalVsRemoteWith" icon="CompareTwoFiles" />
   </component>
 </application>
