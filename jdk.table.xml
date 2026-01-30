@@ -45,11 +45,18 @@
     <jdk version="2">
       <name value="bang-bang | pixi default" />
       <type value="Python SDK" />
-      <version value="Python 3.14.2" />
+      <version value="Python 3.13.11" />
       <homePath value="$SolutionPath$/envs/default/python.exe" />
       <roots>
         <classPath>
           <root type="composite">
+            <root url="file://$SolutionPath$/envs/default/DLLs" type="simple" />
+            <root url="file://$SolutionPath$/envs/default/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
+            <root url="file://$SolutionPath$/envs/default/Lib/site-packages" type="simple" />
+            <root url="file://$SolutionPath$/envs/default/Lib/site-packages/win32" type="simple" />
+            <root url="file://$SolutionPath$/envs/default/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$SolutionPath$/envs/default/Lib/site-packages/pythonwin" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1765024330" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
@@ -74,13 +81,6 @@
         </sourcePath>
       </roots>
       <additional ASSOCIATED_PROJECT_PATH="D:/MyLink/git_repositories/bang-bang-auto" SDK_UUID="61317710-c383-4131-acac-134494682abf">
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/Lib/site-packages/win32" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/Lib/site-packages" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/Lib/site-packages/pythonwin" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/Lib/site-packages/win32/lib" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/DLLs" />
-        <PATHS_TO_TRANSFER_ROOT PATH_TO_TRANSFER="file://$SolutionPath$/envs/default/Lib" />
         <setting name="FLAVOR_ID" value="Conda" />
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\MyLink\\git_repositories\\bang-bang-auto\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
       </additional>
