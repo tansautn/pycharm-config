@@ -4,11 +4,11 @@
       <SuppressingContext>
         <option name="suppressed">
           <set>
-            <option value="the assets directory." />
+            <option value="'" />
+            <option value="M M" />
             <option value="aria2p" />
             <option value="dP dP" />
-            <option value="M M" />
-            <option value="'" />
+            <option value="the assets directory." />
           </set>
         </option>
       </SuppressingContext>
