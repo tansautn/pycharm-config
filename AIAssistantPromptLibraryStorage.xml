@@ -1,0 +1,45 @@
+<application>
+  <component name="AIAssistantPromptLibraryStorage">
+    <option name="prompts">
+      <map>
+        <entry key="26493171-85f3-4dc0-9bd8-e77aa2aa495d">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="26493171-85f3-4dc0-9bd8-e77aa2aa495d" />
+              <option name="name" value="TaskTable" />
+              <option name="content" value="@file:000-general-rules.mdc &#10;@file:000-python-qt-rules.mdc &#10;- map lại handler, tạo mới nếu thiếu cho các nút sau (TaskTable)&#10;    + Clear Completed&#10;    + Clear Failed&#10;    + Clear Selected (new button)&#10;    &#10;    + Move To Result:&#10;        Nút này ta tạo động 1 tab mới. Tên là `Result`&#10;        - Table mới này dùng datatable từ `packages.pdw.datatable`&#10;        - Đọc README package đó @file:README.md &#10;        - Di chuyển các task được chọn (chỉ Completed hoặc failed) sang table đó. NẾU CÓ SELECTED&#10;        - Di chuyển toàn bộ các tasks (failed, completed) sang table đó. NẾU KHÔNG TASK NÀO SELECTED&#10;" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_findproblems">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_findproblems" />
+              <option name="name" value="Find Problems" />
+              <option name="priority" value="100500" />
+              <option name="showInInput" value="false" />
+              <option name="content" value="Find potential problems in $SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+        <entry key="builtin_newchat">
+          <value>
+            <AIAssistantStoredPrompt>
+              <option name="builtIn" value="true" />
+              <option name="hasCustomTitle" value="true" />
+              <option name="id" value="builtin_newchat" />
+              <option name="name" value="New Chat Using Selection" />
+              <option name="priority" value="100500" />
+              <option name="showInInput" value="false" />
+              <option name="waitForInput" value="true" />
+              <option name="content" value="$SELECTION" />
+            </AIAssistantStoredPrompt>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

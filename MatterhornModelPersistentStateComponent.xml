@@ -16,7 +16,6 @@
         </Allowed>
       </list>
     </option>
-    <option name="autoModeEnabled" value="true" />
-    <option name="speedMode" value="Quality" />
+    <option name="braveMode" value="true" />
   </component>
 </application>

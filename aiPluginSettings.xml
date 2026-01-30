@@ -1,0 +1,37 @@
+<application>
+  <component name="AiPluginSettings">
+    <option name="enableAutomaticGenerationOutlines" value="true" />
+    <option name="finishChangesEditingHintDismissed" value="true" />
+    <option name="gcpProjectByEmail">
+      <map>
+        <entry key="zuko.pro.vn@gmail.com">
+          <value>
+            <GcpProjectSettings>
+              <option name="gcpProjectId" value="dazzling-modem-6j5zp" />
+              <option name="gcpProjectName" value="dazzling-modem-6j5zp" />
+            </GcpProjectSettings>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="gotItToolTipsShown" value="true" />
+    <option name="lastLoggedInEmail" value="zuko.pro.vn@gmail.com" />
+    <option name="lastUpsellNotificationTimestampByEmail">
+      <map>
+        <entry key="trachphanvoduyen@gmail.com" value="1768812852743" />
+      </map>
+    </option>
+    <option name="privacyBannerDismissedByEmail">
+      <map>
+        <entry key="trachphanvoduyen@gmail.com">
+          <value>
+            <PrivacyBannerDismissalInfo>
+              <option name="dismissalType" value="DISMISSED_PERMANENTLY" />
+            </PrivacyBannerDismissalInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="shortcutNotificationShown" value="true" />
+  </component>
+</application>

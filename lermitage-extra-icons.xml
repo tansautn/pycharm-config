@@ -4,5 +4,6 @@
     <option name="uiTypeIconsPreference" value="BASED_ON_ACTIVE_UI_TYPE" />
     <option name="useIDEFilenameIndex2" value="true" />
     <option name="pluginIsConfigurableHintNotifDisplayed" value="true" />
+    <option name="expCSharpSupport" value="false" />
   </component>
 </application>

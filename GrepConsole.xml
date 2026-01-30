@@ -86,6 +86,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*(call|notify|event).*" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
                       <option name="style">
@@ -102,6 +103,7 @@
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="continueMatching" value="true" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*(sub).*" />
                       <option name="highlightOnlyMatchingText" value="true" />
                       <option name="operationOnMatch" value="CONTINUE_MATCHING" />
@@ -237,17 +239,39 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*data to write as JSON file.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*not found in local.*" />
                       <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>
                 </option>
                 <option name="name" value="Modules" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*" />
+                      <option name="highlightOnlyMatchingText" value="true" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                    <GrepExpressionItem>
+                      <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
+                      <option name="enabled" value="false" />
+                      <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="inputFilter" value="true" />
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="new" />
               </GrepExpressionGroup>
             </list>
           </option>
