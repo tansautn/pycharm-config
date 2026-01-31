@@ -16,8 +16,8 @@
       <status project="D:/MyLink/git_repositories/mylink_mailtools" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/bang-bang-auto" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_gmeoy" dbn="PASSIVE" sql="PASSIVE" />
-      <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ai-projects/acapella2kara" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="$APPLICATION_CONFIG_DIR$/light-edit" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/bvauto2/packages/foxgearz" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/personal_git/zukey" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/pyqtside" dbn="PASSIVE" sql="PASSIVE" />
@@ -36,6 +36,7 @@
       <status project="D:/Z-Data/git/tele_all_bots/bvauto" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/MyLink/git_repositories/mylink_ccpy" dbn="PASSIVE" sql="PASSIVE" />
       <status project="E:/MyLink/git_repositories/mylink_cerm" dbn="PASSIVE" sql="PASSIVE" />
+      <status project="D:/personal_git/bvauto2/packages/pdw" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/ytrmtp-scheduled" dbn="PASSIVE" sql="ACTIVE" />
       <status project="D:/Z-Data/git/python-app" dbn="PASSIVE" sql="PASSIVE" />
       <status project="D:/Z-Data/git/qt-apps/mylink_ccpy" dbn="PASSIVE" sql="PASSIVE" />
