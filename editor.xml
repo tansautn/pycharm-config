@@ -1,5 +1,6 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
     <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
   </component>
@@ -19,16 +20,14 @@
         <entry key="LSPCodeLens" value="Default" />
         <entry key="component.usage" value="Default" />
         <entry key="inheritors" value="Default" />
-        <entry key="llm" value="Default" />
-        <entry key="python.web.structure" value="Default" />
         <entry key="references" value="Default" />
         <entry key="rename" value="Default" />
         <entry key="vcs.code.vision" value="Default" />
       </map>
     </option>
-    <option name="defaultPosition" value="Right" />
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
         <option value="vcs.code.vision" />
       </set>
     </option>
@@ -43,16 +42,6 @@
         <entry key="js.type.hints#non.paren.single.param" value="true" />
         <entry key="js.type.hints#parameters.in.parens" value="true" />
         <entry key="js.type.hints#variables.and.fields" value="true" />
-        <entry key="python.type.inlays#python.type.inlays.function.return" value="true" />
-        <entry key="python.type.inlays#python.type.inlays.reveal_type" value="true" />
-        <entry key="sql.column.names.inlay.hints#sql.show.column.names.for.asterisk" value="true" />
-        <entry key="sql.column.names.inlay.hints#sql.show.column.names.for.set.operations" value="true" />
-        <entry key="sql.column.names.inlay.hints#sql.show.column.names.in.insert.values" value="true" />
-        <entry key="sql.column.names.inlay.hints#sql.show.column.names.in.select" value="true" />
-        <entry key="sql.join.cardinality.hints#full.join" value="true" />
-        <entry key="sql.join.cardinality.hints#inner.join" value="true" />
-        <entry key="sql.join.cardinality.hints#left.join" value="true" />
-        <entry key="sql.join.cardinality.hints#right.join" value="true" />
         <entry key="ts.type.hints#function.returns" value="true" />
         <entry key="ts.type.hints#non.paren.single.param" value="true" />
         <entry key="ts.type.hints#parameters.in.parens" value="true" />
@@ -61,13 +50,9 @@
     </option>
     <option name="providerIdToEnabled">
       <map>
-        <entry key="MdAutomatedCase" value="true" />
         <entry key="js.chain.hints" value="true" />
         <entry key="js.type.hints" value="true" />
-        <entry key="python.type.inlays" value="true" />
         <entry key="qodana.yaml.inspection.descriptions" value="false" />
-        <entry key="sql.column.names.inlay.hints" value="true" />
-        <entry key="sql.join.cardinality.hints" value="true" />
         <entry key="ts.chain.hints" value="true" />
         <entry key="ts.enum.hints" value="true" />
         <entry key="ts.type.hints" value="true" />
@@ -93,7 +78,7 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="TOOLTIPS_DELAY_MS" value="250" />
@@ -110,7 +95,7 @@
         <option value="JavaScript 1.8.better.highlights.complexity.hint" />
         <option value="JavaScript.better.highlights.complexity.hint" />
         <option value="Python.better.highlights.complexity.hint" />
-        <option value="SQL.sql.join.cardinality.hints" />
+        <option value="Python.python.inlay.types" />
         <option value="TEXT.LSP.hints" />
         <option value="TypeScript JSX.better.highlights.complexity.hint" />
         <option value="TypeScript.better.highlights.complexity.hint" />
@@ -120,13 +105,16 @@
         <option value="textmate.LSP.hints" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="TypeScript.ts.chain.hints" />
+    <option name="lastViewedProviderKeyId" value="" />
     <settingsMapElement>
-      <Python.python.inlay.types>
+      <SQL.sql.join.cardinality.hints>
         <Settings>
-          <option name="showClassAttributeHints" value="true" />
+          <option name="showForFullJoin" value="true" />
+          <option name="showForInnerJoin" value="true" />
+          <option name="showForLeftJoin" value="true" />
+          <option name="showForRightJoin" value="true" />
         </Settings>
-      </Python.python.inlay.types>
+      </SQL.sql.join.cardinality.hints>
     </settingsMapElement>
   </component>
   <component name="InlineCompletionOnboarding">
