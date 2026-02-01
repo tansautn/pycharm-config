@@ -37,7 +37,7 @@
     <jdk version="2">
       <name value="bangbang | px_default" />
       <type value="Python SDK" />
-      <version value="Python 3.13.11" />
+      <version value="Python 3.13.0" />
       <homePath value="D:/MyLink/git_repositories/bang-bang-auto/.pixi/envs/default/python.exe" />
       <roots>
         <classPath>
