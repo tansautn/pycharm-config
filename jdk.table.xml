@@ -148,5 +148,38 @@
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;bvauto2&quot;,&quot;userReadableName&quot;:&quot;bvauto2&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;C:\\Users\\Zuko\\miniconda3\\condabin\\conda.bat&quot;}}" />
       </additional>
     </jdk>
+    <jdk version="2">
+      <name value="default" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.12" />
+      <homePath value="D:/personal_git/bvmigrate/new/.pixi/envs/default/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/DLLs" type="simple" />
+            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
+            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1955931190" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/openpyxl" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mypy-extensions" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="28558598-ba93-464a-a71c-d770ca84ac4b">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\personal_git\\bvmigrate\\new\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
   </component>
 </application>
