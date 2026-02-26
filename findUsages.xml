@@ -1,7 +1,7 @@
 <application>
   <component name="FindUsagesSettings">
-    <option name="customScope" value="Project 'bang-bang-auto'" />
-    <option name="defaultScopeName" value="Project 'bang-bang-auto'" />
-    <option name="SEARCH_SCOPE" value="Project 'bang-bang-auto'" />
+    <option name="customScope" value="Project 'new'" />
+    <option name="defaultScopeName" value="Project 'new'" />
+    <option name="SEARCH_SCOPE" value="Project 'new'" />
   </component>
 </application>
