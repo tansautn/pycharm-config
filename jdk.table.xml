@@ -168,7 +168,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional SDK_UUID="28558598-ba93-464a-a71c-d770ca84ac4b">
+      <additional ASSOCIATED_REQUIRED_TXT_PATH="D:\personal_git\bvmigrate\new\pixi.toml" SDK_UUID="28558598-ba93-464a-a71c-d770ca84ac4b">
         <setting name="FLAVOR_ID" value="Conda" />
         <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;default&quot;,&quot;userReadableName&quot;:&quot;default&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\personal_git\\bvmigrate\\new\\.pixi\\envs\\default\\libexec\\conda.bat&quot;}}" />
       </additional>
