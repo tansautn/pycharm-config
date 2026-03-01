@@ -157,9 +157,9 @@
         <classPath>
           <root type="composite">
             <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/DLLs" type="simple" />
-            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/lib" type="simple" />
+            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/Lib" type="simple" />
             <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
-            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/lib/site-packages" type="simple" />
+            <root url="file://D:/personal_git/bvmigrate/new/.pixi/envs/default/Lib/site-packages" type="simple" />
             <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2025.2/python_stubs/1955931190" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
