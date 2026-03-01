@@ -14,15 +14,24 @@
         </entry>
       </map>
     </option>
+    <option name="gemini3AnnouncementDismissed" value="true" />
     <option name="gotItToolTipsShown" value="true" />
-    <option name="lastLoggedInEmail" value="zuko.pro.vn@gmail.com" />
+    <option name="lastLoggedInEmail" value="bl.rider77@gmail.com" />
     <option name="lastUpsellNotificationTimestampByEmail">
       <map>
+        <entry key="bl.rider77@gmail.com" value="1772378467555" />
         <entry key="trachphanvoduyen@gmail.com" value="1768812852743" />
       </map>
     </option>
     <option name="privacyBannerDismissedByEmail">
       <map>
+        <entry key="bl.rider77@gmail.com">
+          <value>
+            <PrivacyBannerDismissalInfo>
+              <option name="dismissalType" value="DISMISSED_PERMANENTLY" />
+            </PrivacyBannerDismissalInfo>
+          </value>
+        </entry>
         <entry key="trachphanvoduyen@gmail.com">
           <value>
             <PrivacyBannerDismissalInfo>
